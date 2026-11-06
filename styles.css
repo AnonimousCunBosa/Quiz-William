@@ -1,0 +1,13 @@
+html,
+body {
+    min-height: 100%;
+    margin: 0;
+}
+
+body {
+    min-height: 100vh;
+    background-image: url("imagenes/dj-marshmello-3551.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
